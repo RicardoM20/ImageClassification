@@ -1,0 +1,6 @@
+com/example/imageclassification/BuildConfig.java
+ com.example.imageclassification.BuildConfig
+com/example/imageclassification/ml/MobilenetV110224Quant.java
+ com.example.imageclassification.ml.MobilenetV110224Quant
+ com.example.imageclassification.ml.MobilenetV110224Quant$1
+ com.example.imageclassification.ml.MobilenetV110224Quant$Outputs
